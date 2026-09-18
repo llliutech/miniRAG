@@ -1,2 +1,2 @@
 # miniRAG
-A miniRAG system that understand how it work
+A miniRAG system that tell us how it work
